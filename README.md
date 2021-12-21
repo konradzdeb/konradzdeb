@@ -2,6 +2,10 @@ LinkedIn: https://uk.linkedin.com/in/konradzdeb \
 StackOverflow: https://stackoverflow.com/users/1655567/konrad \
 Blog: https://konradzdeb.netlify.app 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konradzdeb&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **konradzdeb/konradzdeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
