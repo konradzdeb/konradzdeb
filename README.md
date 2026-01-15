@@ -2,7 +2,7 @@ LinkedIn: https://uk.linkedin.com/in/konradzdeb \
 StackOverflow: https://stackoverflow.com/users/1655567/konrad \
 Blog: https://thefinalartefact.blog
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konradzdeb&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=konradzdeb)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
